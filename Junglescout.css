@@ -7,6 +7,7 @@ header {
 
 body {
     width: 100%;
+    margin: center;
     font-family: myfont;
 
 }
@@ -269,30 +270,34 @@ a {
 
 
 }
-.js-animation-preset{
+
+.js-animation-preset {
     display: flex;
     position: relative;
     top: -1010px;
     margin-left: 550px;
     width: 700px;
 }
-.body-2 h2{
+
+.body-2 h2 {
     position: relative;
     top: -895px;
     margin-left: 436px;
     font-weight: 300;
     font-size: 18px;
 }
-.body-2 span{
+
+.body-2 span {
     position: relative;
     top: -409px;
     margin-left: 583px;
     font-weight: 600;
     font-size: 18px;
 }
-.body-2 .border-text{
+
+.body-2 .border-text {
     height: 35px;
-    width: 257px;
+    width: 247px;
     background-color: white;
     position: relative;
     top: -920px;
@@ -300,7 +305,8 @@ a {
     border-radius: 23px;
     border: 1px solid black;
 }
-.body-2 h6{
+
+.body-2 h6 {
     position: relative;
     top: 8px;
     margin-left: 16px;
@@ -309,107 +315,126 @@ a {
 
 
 }
-.body-2 img{
+
+.body-2 img {
     width: 15px;
     position: relative;
     top: -9px;
-    margin-left: 223px;
+    margin-left: 219px;
 }
-.body-2 .bordertext-2{
+
+.body-2 .bordertext-2 {
     height: 35px;
-    width: 325px;
+    width: 317px;
     background-color: white;
     position: relative;
-    top: -955px;
-    margin-left: 445px;
+    top: -956px;
+    margin-left: 430px;
     border-radius: 23px;
     border: 1px solid black;
 }
-.bordertext-2 h5{
-    position: relative;
-    top: 8px;
-    margin-left: 16px;
-    font-size: 16px;
-    font-weight: 400;
-}   
-.body-2 .body-2arrow{
-    margin-left: 293px
-}
-.body-2 .bordertext-3{
-    height: 35px;
-    width: 325px;
-    background-color: white;
-    position: relative;
-    top: -991px;
-    margin-left: 782px;
-    border-radius: 23px;
-    border: 1px solid black;
-}
-.bordertext-3 h5{
+
+.bordertext-2 h5 {
     position: relative;
     top: 8px;
     margin-left: 16px;
     font-size: 16px;
     font-weight: 400;
 }
-.bordertext-3 img{
-    margin-left: 293px;
+
+.body-2 .body-2arrow {
+    margin-left: 288px;
 }
-.body-3 h1{
+
+.body-2 .bordertext-3 {
+    height: 35px;
+    width: 319px;
+    background-color: white;
+    position: relative;
+    top: -992px;
+    margin-left: 756px;
+    border-radius: 23px;
+    border: 1px solid black;
+}
+
+.bordertext-3 h5 {
+    position: relative;
+    top: 8px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.bordertext-3 .body-3arrow {
+    width: 15px;
+    position: absolute;
+    top: 10px;
+    margin-left: 289px
+}
+
+.body-3 h1 {
     position: relative;
     top: -910px;
     font-size: 31px;
     font-weight: 400;
     margin-inline: 286px
 }
-.h1{
+
+.h1 {
     left: 91px;
-    
-
-
-
 }
 
+.body-4 {
+    height: 580px;
+    width: 550px;
+    background-color: #f7f7f7;
+    position: relative;
+    top: -832px;
+    margin-left: 59px;
+    border-radius: 25px;
+    
+}
 
+.body-4 h2 {
+    position: relative;
+    top: 46px;
+    margin-inline: 186px;
+    color: black;
+    font-size: 20px;
+    font-weight: 600
+}
 
-
-
-
-
-
-
-
+.body-4 p {
+    display: flex;
+    position: relative;
+    top: 67px;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+.body-4p{
+    left: 74px;
+}
+.js-ani{
+    position: relative;
+    left: 8%;
+    width: 85%;
+    margin-block: 120px;
+}
+.body-4-right{
+    height: 580px;
+    width: 550px;
+    background-color: #bd0b0b;
+    position: relative;
+    top: -616px;
+    margin-left: 594px;
+    border-radius: 25px;
+}
     
 
 
 
-
-
-
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
 
 
 
