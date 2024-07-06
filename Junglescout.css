@@ -74,7 +74,7 @@ a {
     position: relative;
     left: 23em;
     margin-top: 1px;
-    
+
 }
 
 .position-set h5 {
@@ -100,22 +100,22 @@ a {
     margin-top: 20px;
     width: 100%;
     /* border: 2px solid; */
-    height: 35em;
+    height: 39em;
 }
 
 .body-1 h5 {
     position: relative;
-    top: -9.9em;
-    font-size: 3em;
+    top: -543px;
     margin-left: 63px;
-    font-weight: 400;
+    font-size: 44px;
+    font-weight: 400
 
 
 }
 
 .body-1 h4 {
     position: relative;
-    top: -9.9em;
+    top: -11.4em;
     font-size: 3em;
     margin-left: 59px;
     font-weight: 400;
@@ -125,7 +125,7 @@ a {
 
 .body-1 h3 {
     position: relative;
-    top: -9.8em;
+    top: -11.2em;
     font-size: 3em;
     margin-left: 59px;
     font-weight: bold;
@@ -135,19 +135,19 @@ a {
 
 .body-1 p {
     position: relative;
-    top: -27.3em;
+    top: -31.7em;
     font-size: 1em;
-    margin-left: 59px;
+    margin-left: 63px;
     font-weight: 400;
     width: 453px;
 }
 
 .body-1 button {
     position: relative;
-    top: -23.1em;
+    top: -26.5em;
     padding-block: 14px;
     padding-inline: 30px;
-    margin-left: 3.3em;
+    margin-left: 63px;
     font-weight: bold;
     background-color: black;
     color: white;
@@ -155,3 +155,136 @@ a {
     border: 1px solid black;
     font-size: 18px;
 }
+
+.body-1 small {
+    position: relative;
+    top: -35.9em;
+    margin-left: 30px;
+    font-weight: 300;
+
+}
+
+.body-1-star {
+    position: absolute;
+    height: 50%;
+    width: 7%;
+    left: 59px;
+    top: 25em;
+
+
+}
+
+.body-1-star-2{
+    position: relative;
+    top: -23.9em;
+    width: 18px;
+    margin-left: -397px
+   
+    
+
+}
+.body-1-star-3{
+    position: relative;
+    top: -23.9em;
+    width: 18px;
+    margin-left: -2px;
+   
+    
+
+}
+.body-1-star-4{
+    position: relative;
+    top: -23.9em;
+    width: 18px;
+    margin-left: -2px;
+   
+    
+
+}
+.body-1-star-5{
+    position: relative;
+    top: -23.9em;
+    width: 18px;
+    margin-left: -2px;
+   
+    
+
+}
+.body-1-star-6{
+    position: relative;
+    top: -23.9em;
+    width: 18px;
+    margin-left: -2px;
+}
+.body-1 h6{
+    position: relative;
+    top: -399px;
+    margin-left: 61px;
+    font-size: 11px;
+}
+.body-1 h1{
+    position: relative;
+    top: -395px;
+    margin-left: 61px;
+    font-size: 11px;
+}
+.small-h1{
+    position: relative;
+    left: 66px;
+    margin-block: -13px;
+}
+.reviews{
+    position: relative;
+    left: 1px;
+    margin-block: 15px;
+}
+.second-reviews h4{
+    position: relative;
+    top: -424px;
+    margin-inline: 92px;
+    font-size: 12px;
+}
+.lazy-loaded img{
+    position: relative;
+    top: -499px;
+    margin-inline: 220px;
+}
+.lazy img{
+    position: relative;
+    top: -548px;
+    margin-inline: 299px;
+    width: 99px;
+}
+.body-right{
+    display: flex;
+
+
+}
+.js-animation-preset{
+    display: flex;
+    width: 30%;
+     
+
+
+}
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+   
+    
