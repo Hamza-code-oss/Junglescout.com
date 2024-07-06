@@ -1,0 +1,157 @@
+header {
+    width: 90%;
+    margin: auto;
+    font-family: myfont;
+
+}
+
+body {
+    width: 100%;
+    font-family: myfont;
+
+}
+
+@font-face {
+    font-family: myfont;
+    src: url(font/Montserrat-VariableFont_wght.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    display: flex;
+
+
+
+
+}
+
+ol {
+    margin-top: 23px;
+    list-style-type: none;
+
+}
+
+ol img {
+    width: 140px;
+    vertical-align: center;
+}
+
+ol li:nth-child(1) {
+    flex-grow: 0.10;
+}
+
+ol li {
+    font-size: 90%;
+
+
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    vertical-align: center;
+
+
+}
+
+.position-set {
+    display: flex;
+    position: relative;
+    left: -15px;
+    gap: 34px;
+    list-style-type: none;
+    margin-top: 1px;
+
+
+}
+
+.position-set img {
+    width: 18px;
+    position: relative;
+    left: 23em;
+    margin-top: 1px;
+    
+}
+
+.position-set h5 {
+    position: relative;
+    left: 24.5em;
+    font-size: 13px;
+}
+
+.position-set button {
+    position: relative;
+    left: 22.5em;
+    padding-block: 6px;
+    padding-inline: 14px;
+    margin-top: -6px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+.top-background-pic {
+    margin-top: 20px;
+    width: 100%;
+    /* border: 2px solid; */
+    height: 35em;
+}
+
+.body-1 h5 {
+    position: relative;
+    top: -9.9em;
+    font-size: 3em;
+    margin-left: 63px;
+    font-weight: 400;
+
+
+}
+
+.body-1 h4 {
+    position: relative;
+    top: -9.9em;
+    font-size: 3em;
+    margin-left: 59px;
+    font-weight: 400;
+
+
+}
+
+.body-1 h3 {
+    position: relative;
+    top: -9.8em;
+    font-size: 3em;
+    margin-left: 59px;
+    font-weight: bold;
+
+
+}
+
+.body-1 p {
+    position: relative;
+    top: -27.3em;
+    font-size: 1em;
+    margin-left: 59px;
+    font-weight: 400;
+    width: 453px;
+}
+
+.body-1 button {
+    position: relative;
+    top: -23.1em;
+    padding-block: 14px;
+    padding-inline: 30px;
+    margin-left: 3.3em;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    border: 1px solid black;
+    font-size: 18px;
+}
