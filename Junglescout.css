@@ -109,8 +109,6 @@ a {
     margin-left: 63px;
     font-size: 44px;
     font-weight: 400
-
-
 }
 
 .body-1 h4 {
@@ -174,99 +172,220 @@ a {
 
 }
 
-.body-1-star-2{
+.body-1-star-2 {
     position: relative;
     top: -23.9em;
     width: 18px;
     margin-left: -397px
-   
-    
-
 }
-.body-1-star-3{
+
+.body-1-star-3 {
     position: relative;
     top: -23.9em;
     width: 18px;
     margin-left: -2px;
-   
-    
+
+
 
 }
-.body-1-star-4{
+
+.body-1-star-4 {
     position: relative;
     top: -23.9em;
     width: 18px;
     margin-left: -2px;
-   
-    
+
+
 
 }
-.body-1-star-5{
+
+.body-1-star-5 {
     position: relative;
     top: -23.9em;
     width: 18px;
     margin-left: -2px;
-   
-    
+
+
 
 }
-.body-1-star-6{
+
+.body-1-star-6 {
     position: relative;
     top: -23.9em;
     width: 18px;
     margin-left: -2px;
 }
-.body-1 h6{
+
+.body-1 h6 {
     position: relative;
     top: -399px;
     margin-left: 61px;
     font-size: 11px;
 }
-.body-1 h1{
+
+.body-1 h1 {
     position: relative;
     top: -395px;
     margin-left: 61px;
     font-size: 11px;
 }
-.small-h1{
-    position: relative;
-    left: 66px;
-    margin-block: -13px;
-}
-.reviews{
+
+.reviews {
     position: relative;
     left: 1px;
     margin-block: 15px;
 }
-.second-reviews h4{
+
+.second-reviews h4 {
     position: relative;
     top: -424px;
     margin-inline: 92px;
     font-size: 12px;
 }
-.lazy-loaded img{
+
+.lazy-loaded img {
     position: relative;
     top: -499px;
     margin-inline: 220px;
 }
-.lazy img{
+
+.lazy img {
     position: relative;
     top: -548px;
     margin-inline: 299px;
     width: 99px;
 }
-.body-right{
+
+.body-right {
     display: flex;
+
+
+}
+
+.js-animation-preset {
+    display: flex;
+    width: 30%;
+
 
 
 }
 .js-animation-preset{
     display: flex;
-    width: 30%;
-     
+    position: relative;
+    top: -1010px;
+    margin-left: 550px;
+    width: 700px;
+}
+.body-2 h2{
+    position: relative;
+    top: -895px;
+    margin-left: 436px;
+    font-weight: 300;
+    font-size: 18px;
+}
+.body-2 span{
+    position: relative;
+    top: -409px;
+    margin-left: 583px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.body-2 .border-text{
+    height: 35px;
+    width: 257px;
+    background-color: white;
+    position: relative;
+    top: -920px;
+    margin-left: 175px;
+    border-radius: 23px;
+    border: 1px solid black;
+}
+.body-2 h6{
+    position: relative;
+    top: 8px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 400;
 
 
 }
+.body-2 img{
+    width: 15px;
+    position: relative;
+    top: -9px;
+    margin-left: 223px;
+}
+.body-2 .bordertext-2{
+    height: 35px;
+    width: 325px;
+    background-color: white;
+    position: relative;
+    top: -955px;
+    margin-left: 445px;
+    border-radius: 23px;
+    border: 1px solid black;
+}
+.bordertext-2 h5{
+    position: relative;
+    top: 8px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 400;
+}   
+.body-2 .body-2arrow{
+    margin-left: 293px
+}
+.body-2 .bordertext-3{
+    height: 35px;
+    width: 325px;
+    background-color: white;
+    position: relative;
+    top: -991px;
+    margin-left: 782px;
+    border-radius: 23px;
+    border: 1px solid black;
+}
+.bordertext-3 h5{
+    position: relative;
+    top: 8px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.bordertext-3 img{
+    margin-left: 293px;
+}
+.body-3 h1{
+    position: relative;
+    top: -910px;
+    font-size: 31px;
+    font-weight: 400;
+    margin-inline: 286px
+}
+.h1{
+    left: 91px;
+    
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
     
 
 
@@ -275,16 +394,23 @@ a {
 
 
 
+
+
+
+
+
+
+    
     
 
 
 
 
 
-    
 
 
 
 
-   
-    
+
+
+
