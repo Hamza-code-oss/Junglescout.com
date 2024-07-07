@@ -385,14 +385,15 @@ a {
 }
 
 .body-4 {
-    height: 580px;
+    height: 600px;
     width: 550px;
     background-color: #f7f7f7;
     position: relative;
     top: -832px;
     margin-left: 59px;
     border-radius: 25px;
-    
+
+
 }
 
 .body-4 h2 {
@@ -412,29 +413,95 @@ a {
     font-size: 15px;
     font-weight: 400;
 }
-.body-4p{
+
+.body-4p {
     left: 74px;
 }
-.js-ani{
+
+.body-4 small {
+    position: relative;
+    top: 86px;
+    margin-left: 235px;
+    font-weight: 500;
+    color: blue;
+}
+
+.body-4 img {
+    position: absolute;
+    top: 153px;
+    margin-left: 9px;
+    width: 12px;
+    color: rgb(0, 0, 255);
+
+
+}
+
+.js-ani {
     position: relative;
     left: 8%;
     width: 85%;
-    margin-block: 120px;
+    margin-block: 137px;
 }
-.body-4-right{
-    height: 580px;
+
+.body-4-right {
+    height: 600px;
     width: 550px;
-    background-color: #bd0b0b;
+    background-color: #f7f7f7;
     position: relative;
-    top: -616px;
+    top: -672px;
     margin-left: 594px;
     border-radius: 25px;
 }
-    
+
+
+.body-4-right h2 {
+    position: relative;
+    top: 46px;
+    margin-inline: 186px;
+    color: black;
+    font-size: 20px;
+    font-weight: 600
+}
+
+.body-4-right p {
+    display: flex;
+    position: relative;
+    top: 67px;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.body-4-right-4p {
+    left: 74px;
+}
+
+.body-4-right small {
+    position: relative;
+    top: 86px;
+    margin-left: 235px;
+    font-weight: 500;
+    color: blue;
+
+}
+.body-4-right img {
+    position: absolute;
+    left: 3%;
+    width: 90%;
+    margin-block: 50px
+}
+.body-4-arrow img{
+    position: absolute;
+    top: 103px;
+    margin-left: 305px;
+    width: 12px;
+    color: rgb(0, 0, 255)
+}
 
 
 
-    
+
+
 
 
 
