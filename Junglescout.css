@@ -3,6 +3,7 @@ header {
     margin: auto;
     font-family: myfont;
 
+
 }
 
 body {
@@ -31,6 +32,7 @@ ol {
 }
 
 ol {
+
     margin-top: 23px;
     list-style-type: none;
 
@@ -511,25 +513,18 @@ a {
     color: blue;
 
 }
+
 .body-4-right img {
     position: absolute;
     left: 3%;
     width: 90%;
     margin-block: 50px
 }
-.body-4-arrow img{
+
+.body-4-arrow img {
     position: absolute;
     top: 103px;
     margin-left: 305px;
     width: 12px;
     color: rgb(0, 0, 255)
 }
-
-
-
-
-
-
-
-
-
