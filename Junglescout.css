@@ -322,7 +322,19 @@ a {
     top: -9px;
     margin-left: 219px;
 }
-
+.border-text:hover {
+    background-color: #eefdef;  
+    border-color: rgb(9, 148, 9);
+}
+.border-text h6:hover {
+    color: rgb(23, 179, 23);
+}
+.border-text:active {
+    background-color: rgb(18, 136, 18);
+}
+.border-text h6:active {
+    color: white;
+}
 .body-2 .bordertext-2 {
     height: 35px;
     width: 317px;
@@ -355,6 +367,21 @@ a {
     margin-left: 756px;
     border-radius: 23px;
     border: 1px solid black;
+}
+.bordertext-2:hover{
+    background-color: #eefdef;  
+    border-color: rgb(9, 148, 9);
+}
+.bordertext-2 h5:hover{
+    color: rgb(23, 179, 23);
+}
+
+.bordertext-2:active{
+    background-color: rgb(18, 136, 18);
+
+}
+.bordertext-2 h5:active{
+    color: white;
 }
 
 .bordertext-3 h5 {
