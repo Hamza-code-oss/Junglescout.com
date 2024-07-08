@@ -324,19 +324,24 @@ a {
     top: -9px;
     margin-left: 219px;
 }
+
 .border-text:hover {
-    background-color: #eefdef;  
+    background-color: #eefdef;
     border-color: rgb(9, 148, 9);
 }
+
 .border-text h6:hover {
     color: rgb(23, 179, 23);
 }
+
 .border-text:active {
     background-color: rgb(18, 136, 18);
 }
+
 .border-text h6:active {
     color: white;
 }
+
 .body-2 .bordertext-2 {
     height: 35px;
     width: 317px;
@@ -370,19 +375,22 @@ a {
     border-radius: 23px;
     border: 1px solid black;
 }
-.bordertext-2:hover{
-    background-color: #eefdef;  
+
+.bordertext-2:hover {
+    background-color: #eefdef;
     border-color: rgb(9, 148, 9);
 }
-.bordertext-2 h5:hover{
+
+.bordertext-2 h5:hover {
     color: rgb(23, 179, 23);
 }
 
-.bordertext-2:active{
+.bordertext-2:active {
     background-color: rgb(18, 136, 18);
 
 }
-.bordertext-2 h5:active{
+
+.bordertext-2 h5:active {
     color: white;
 }
 
@@ -399,6 +407,24 @@ a {
     position: absolute;
     top: 10px;
     margin-left: 289px
+}
+
+.bordertext-3:hover {
+    background-color: #eefdef;
+    border-color: rgb(9, 148, 9);
+}
+
+.bordertext-3 h5:hover {
+    color: rgb(23, 179, 23);
+}
+
+.bordertext-3:active {
+    background-color: rgb(18, 136, 18);
+
+}
+
+.bordertext-3 h5:active {
+    color: white;
 }
 
 .body-3 h1 {
@@ -528,3 +554,65 @@ a {
     width: 12px;
     color: rgb(0, 0, 255)
 }
+
+.body-5 {
+    height: 600px;
+    width: 550px;
+    background-color: #f7f7f7;
+    position: relative;
+    top: 559px;
+    margin-left: -594px;
+    border-radius: 25px;
+}
+
+.body-5 h2 {
+    position: relative;
+    top: 46px;
+    margin-inline: 186px;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+
+
+}
+
+.body-5 p {
+    position: relative;
+    top: 70px;
+    margin-left: 67px;
+    font-size: 15px;
+}
+
+.body-5-p p {
+    position: relative;
+    top: 72px;
+    margin-left: 87px;
+    font-size: 15px;
+}
+
+.body-5 small {
+    position: relative;
+    top: 86px;
+    margin-left: 235px;
+    font-weight: 500;
+    color: blue;
+}
+
+.body-5 img {
+    position: absolute;
+    top: 103px;
+    margin-left: 305px;
+    width: 12px;
+    color: rgb(0, 0, 255);
+}
+.wolf-block-content-035-block-image-block-mx-auto{
+    width: 100px;
+
+
+
+}
+    
+
+
+
+
