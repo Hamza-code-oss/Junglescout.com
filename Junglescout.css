@@ -1,11 +1,12 @@
 header {
-    
+
     width: 90%;
     margin: auto;
     font-family: myfont;
 
 
 }
+
 
 body {
     width: 100%;
@@ -457,8 +458,9 @@ a {
     top: 46px;
     margin-inline: 186px;
     color: black;
-    font-size: 20px;
-    font-weight: 600
+    font-size: 1.25rem;
+    font-weight: 800;
+    width: 768px;
 }
 
 .body-4 p {
@@ -515,8 +517,8 @@ a {
     top: 46px;
     margin-inline: 186px;
     color: black;
-    font-size: 20px;
-    font-weight: 600
+    font-size: 1.25rem;
+    font-weight: 800;
 }
 
 .body-4-right p {
@@ -571,8 +573,9 @@ a {
     top: 46px;
     margin-inline: 186px;
     color: black;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 1.25rem;
+    font-weight: 800;
+    width: 768px;
 
 
 }
@@ -586,7 +589,7 @@ a {
 
 .body-5-p p {
     position: relative;
-    top: 72px;
+    top: 73px;
     margin-left: 87px;
     font-size: 15px;
 }
@@ -606,14 +609,48 @@ a {
     width: 12px;
     color: rgb(0, 0, 255);
 }
-.wolf-block-content-035-block-image-block-mx-auto{
-    width: 100px;
 
-
+.body-0-pic img {
+    width: 84%;
+    position: relative;
+    left: -260px;
+    margin-top: 28px;
 
 }
-    
 
+.body-5-right {
+    height: 600px;
+    width: 550px;
+    background-color: #f7f7f7;
+    position: relative;
+    top: -504px;
+    margin-left: 593px;
+    border-radius: 25px
+}
 
-
-
+.body-5-right h1 {
+    position: relative;
+    top: 46px;
+    margin-inline: 186px;
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 800;
+    width: 768px;
+    margin-left: 30%;
+}
+.body-5-right p{
+    width: 700px;
+}
+.body-5-right-p p{
+    position: relative;
+    left: -19px;
+    line-height: 24px;
+}
+.body-5-right-p-a a{
+    position: relative;
+    top: 86px;
+    margin-left: 235px;
+    font-weight: 500;
+    color: blue;
+    font-size: 14px;
+}
