@@ -441,63 +441,150 @@ a {
     left: 91px;
 }
 
+.body-3 p {
+    margin-top: -336px;
+    margin-left: 288px;
+    width: 800px;
+    font-weight: 400;
+    font-size: 17px;
+}
+
 .body-4 {
-    height: 600px;
-    width: 550px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+
+.grid-1 {
+    margin-left: 58px;
+    margin-top: -666px;
     background-color: #f7f7f7;
+    width: 550px;
+    height: 600px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.grid-1 h2 {
+    margin-top: 941px;
+    margin-left: 191px;
+    font-weight: 800;
+    font-size: 21px;
+}
+
+.grid-1 p {
+    margin-top: -369px;
+    width: 800px;
+    margin-left: 39px;
+}
+
+.body-4 .grid-p {
     position: relative;
-    top: -832px;
-    margin-left: 59px;
+    top: -135px;
+    margin-left: 131px
+}
+
+.grid-1 .learn-blue-1 {
+    margin-left: 229px;
+    position: relative;
+    top: -116px;
+    color: blue;
+    font-size: 13px;
+    font-weight: 400;
+    
+}
+
+.errow-1 img {
+    position: relative;
+    top: -133px;
+    margin-left: 313px;
+    width: 11px;
+
+}
+
+.grid-1 .js-animation-preset {
+    position: relative;
+    top: -100px;
+    width: 90%;
+    margin-left: 20px;
+
+}
+
+.grid-2 {
+    margin-left: 16px;
+    margin-top: -666px;
+    background-color: #f7f7f7;
+    width: 550px;
+    height: 600px;
     border-radius: 25px;
 
-
 }
 
-.body-4 h2 {
+.grid-2 h3 {
     position: relative;
-    top: 46px;
-    margin-inline: 186px;
-    color: black;
-    font-size: 1.25rem;
+    top: 10px;
     font-weight: 800;
-    width: 768px;
+    font-size: 21px;
+    margin-top: 36px;
+    margin-left: 186px;
 }
 
-.body-4 p {
-    display: flex;
+.grid-2 p {
     position: relative;
-    top: 67px;
-    color: black;
-    font-size: 15px;
-    font-weight: 400;
+    top: 29px;
+    width: 473px;
+    margin-left: 43px;
 }
 
-.body-4p {
-    left: 74px;
+.grid-2 .grid-2-p {
+    margin-inline: 131px;
+    line-height: 24px;
 }
 
-.body-4 small {
+.grid-2 .learn-blue {
     position: relative;
-    top: 86px;
-    margin-left: 235px;
-    font-weight: 500;
+    top: 44px;
     color: blue;
+    font-size: 13px;
+    font-weight: 400;
+    margin-inline: 236px;
 }
 
-.body-4 img {
+.errow-2 img {
+    margin-left: 320px;
+    width: 11px;
     position: absolute;
-    top: 153px;
-    margin-left: 9px;
-    width: 12px;
-    color: rgb(0, 0, 255);
-
-
+    top: 1311px;
 }
 
-.js-ani {
-    position: relative;
-    left: 8%;
-    width: 85%;
-    margin-block: 137px;
+.grid-2 .lazy-loaded{
+    position: absolute;
+    top: 1343px;
+    width: 40%;
+    margin-left: 22px;
+    cursor: pointer;
+}
+    
+
+
+
+
+
+
+.grid-3 {
+    margin-left: -579px;
+    margin-top: -29px;
+    background: rgb(11, 172, 9);
+    width: 550px;
+    height: 600px;
+    border-radius: 25px;
 }
 
+.grid-4 {
+    margin-left: 57px;
+    margin-top: -600px;
+    background: rgb(36 36 161);
+    width: 550px;
+    height: 600px;
+    border-radius: 25px
+}
