@@ -1,5 +1,5 @@
 header {
-
+    
     width: 90%;
     margin: auto;
     font-family: myfont;
@@ -695,4 +695,7 @@ a {
 .body-5 button:active{
     background-color: black;
     cursor: pointer;
+}
+.background-98-wolf-block-padding-y-5{
+    width: 40%;
 }
