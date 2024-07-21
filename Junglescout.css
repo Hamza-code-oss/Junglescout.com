@@ -663,3 +663,36 @@ a {
     margin-top: 128px;
     margin-left: 20px;
 }
+.body-5 h1{
+    position: relative;
+    top: 94px;
+    font-size: 28px;
+    width: 735px;
+    margin-left: 153px;
+    font-weight: 400;
+}
+.body-5 .body-5-bold{
+    font-weight: bold;
+}
+.body-5 p{
+    position: relative;
+    top: 114px;
+    width: 673px;
+    margin-left: 152px;
+}
+.body-5 button{
+    position: relative;
+    top: 34px;
+    margin-left: 884px;
+    padding-inline: 58px;
+    padding-block: 14px;
+}
+.body-5 button:hover{
+    background-color: blue;
+    border-radius: blue;
+    cursor: pointer;
+}
+.body-5 button:active{
+    background-color: black;
+    cursor: pointer;
+}
