@@ -491,7 +491,7 @@ a {
     color: blue;
     font-size: 13px;
     font-weight: 400;
-    
+
 }
 
 .errow-1 img {
@@ -557,34 +557,121 @@ a {
     top: 1311px;
 }
 
-.grid-2 .lazy-loaded{
+.grid-2 .lazy-loaded {
     position: absolute;
     top: 1343px;
     width: 40%;
     margin-left: 22px;
     cursor: pointer;
 }
-    
-
-
-
-
-
 
 .grid-3 {
     margin-left: -579px;
     margin-top: -29px;
-    background: rgb(11, 172, 9);
+    background-color: #f7f7f7;
     width: 550px;
     height: 600px;
     border-radius: 25px;
+
+}
+
+.grid-3 h2 {
+    position: relative;
+    top: 42px;
+    margin-left: -395px;
+    font-size: 21px;
+    font-weight: 800;
+
+
+}
+
+.grid-3 p {
+    position: relative;
+    top: 100px;
+    margin-left: -558px;
+    width: 800px;
+    margin-top: -35px;
+
+
+}
+
+.grid-3 .grid-3-p {
+    margin-top: 3px;
+    margin-left: -540px;
+}
+
+.grid-3 a {
+    position: relative;
+    top: 117px;
+    margin-left: -361px;
+    color: blue;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.errow-3 img {
+    position: relative;
+    top: 99px;
+    margin-left: -278px;
+    width: 11px;
+}
+
+.grid-3 .lazy-loaded {
+    width: 85%;
+    margin-left: -555px;
+    margin-top: 145px;
 }
 
 .grid-4 {
     margin-left: 57px;
     margin-top: -600px;
-    background: rgb(36 36 161);
+    background-color: #f7f7f7;
     width: 550px;
     height: 600px;
     border-radius: 25px
+}
+
+.grid-4 h2 {
+    position: relative;
+    top: 43px;
+    width: 224px;
+    font-size: 21px;
+    font-weight: 800;
+    margin-left: 770px;
+}
+
+.grid-4 p {
+    position: relative;
+    top: 65px;
+    margin-left: 669px;
+
+
+}
+
+.grid-4 .grid-4-p {
+    width: 463px;
+    line-height: 25px;
+    margin-left: 648px;
+}
+
+.grid-4 a {
+    position: absolute;
+    top: 1945px;
+    margin-left: 835px;
+    color: blue;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.errow-4 img {
+    margin-left: 919px;
+    margin-top: 95px;
+    width: 11px;
+}
+.grid-4 .js-animation-preset{
+    position: relative;
+    top: 40px;
+    width: 90%;
+    margin-left: 610px;
+
 }
