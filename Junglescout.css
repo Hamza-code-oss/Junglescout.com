@@ -237,7 +237,7 @@ a {
 
 .reviews {
     position: relative;
-    left: 1px;
+    left: 0;
     margin-block: 15px;
 }
 
