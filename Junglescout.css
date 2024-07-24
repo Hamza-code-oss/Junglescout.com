@@ -699,3 +699,14 @@ a {
 .background-98-wolf-block-padding-y-5{
     width: 40%;
 }
+.body-6{
+    position: absolute;
+    background-color: rgb(238, 241, 241);
+    height: 600px;
+    width: 100%;
+    margin-top: 165px;
+    
+}
+.body-6 .set-pic{
+    width: 200px;
+}
