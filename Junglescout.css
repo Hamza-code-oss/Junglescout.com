@@ -1,5 +1,5 @@
 header {
-    
+
     width: 90%;
     margin: auto;
     font-family: myfont;
@@ -638,12 +638,14 @@ a {
     top: 71px;
     margin-left: 72px;
 }
-.grid-4 .grid-4-p{
+
+.grid-4 .grid-4-p {
     width: 475px;
     margin-left: 49px;
     line-height: 26px;
 }
-.grid-4 a{
+
+.grid-4 a {
     position: relative;
     top: 87px;
     margin-left: 238px;
@@ -651,7 +653,8 @@ a {
     font-size: 13px;
     font-weight: 400;
 }
-.errow-4 img{
+
+.errow-4 img {
     position: absolute;
     top: 1957px;
     width: 11px;
@@ -663,7 +666,8 @@ a {
     margin-top: 128px;
     margin-left: 20px;
 }
-.body-5 h1{
+
+.body-5 h1 {
     position: relative;
     top: 94px;
     font-size: 28px;
@@ -671,42 +675,136 @@ a {
     margin-left: 153px;
     font-weight: 400;
 }
-.body-5 .body-5-bold{
+
+.body-5 .body-5-bold {
     font-weight: bold;
 }
-.body-5 p{
+
+.body-5 p {
     position: relative;
     top: 114px;
     width: 673px;
     margin-left: 152px;
 }
-.body-5 button{
+
+.body-5 button {
     position: relative;
     top: 34px;
     margin-left: 884px;
     padding-inline: 58px;
     padding-block: 14px;
 }
-.body-5 button:hover{
+
+.body-5 button:hover {
     background-color: blue;
     border-radius: blue;
     cursor: pointer;
 }
-.body-5 button:active{
+
+.body-5 button:active {
     background-color: black;
     cursor: pointer;
 }
-.background-98-wolf-block-padding-y-5{
+
+.background-98-wolf-block-padding-y-5 {
     width: 40%;
 }
-.body-6{
+
+.body-6 {
     position: absolute;
-    background-color: rgb(238, 241, 241);
-    height: 600px;
+    background-color: #f2f5f5;
+    height: 1000px;
     width: 100%;
     margin-top: 165px;
-    
 }
-.body-6 .set-pic{
-    width: 200px;
+
+.body-6 img {
+    position: absolute;
+    top: 162px;
+    width: 298px;
+    margin-left: 648px;
+}
+
+.body-6 h1 {
+    position: relative;
+    top: 212px;
+    margin-left: 644px;
+    font-size: 33px;
+    font-weight: 400;
+}
+
+.body-6 p {
+    position: relative;
+    top: 241px;
+    margin-left: 644px;
+    width: 567px;
+}
+
+.body-6 button {
+    position: relative;
+    top: 267px;
+    margin-left: 644px;
+    padding-inline: 27px;
+    padding-block: 14px;
+}
+
+.body-6 button:hover {
+    background-color: blue;
+    border-radius: blue;
+    cursor: pointer;
+}
+
+.body-6 button:active {
+    background-color: black;
+    cursor: pointer;
+}
+
+#lazy-loaded-3 {
+    position: relative;
+    top: 315px;
+    width: 40px;
+    margin-left: 646px;
+
+}
+
+#lazy-loaded-4 {
+    position: relative;
+    top: 285px;
+    width: 100px;
+    margin-left: 753px;
+}
+
+#lazy-loaded-5 {
+    position: absolute;
+    top: 484px;
+    width: 100px;
+    margin-left: 905px;
+}
+
+#lazy-loaded-6 {
+    position: absolute;
+    top: 484px;
+    width: 100px;
+    margin-left: 1079px;
+}
+.body-7 p{
+    position: relative;
+    top: 414px;
+    margin-left: 209px;
+    width: 834px;
+    font-size: 32px;
+}
+.p-1 p{
+    position: relative;
+    top: 414px;
+    margin-left: 355px;
+    width: 834px;
+    font-size: 32px;
+    line-height: 37px;
+}
+.p-2 p{
+    position: relative;
+    top: 439px;
+    margin-left: 312px;
+    width: 800px;
 }
