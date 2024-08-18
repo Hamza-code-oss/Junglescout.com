@@ -100,7 +100,12 @@ a {
     border-radius: 3px;
     border: 1px solid black;
 }
-
+.position-set button:hover{
+    background-color: blue;
+}
+.position-set button:active{
+    background-color: black;
+}
 .top-background-pic {
     margin-top: 20px;
     width: 100%;
@@ -158,7 +163,12 @@ a {
     border: 1px solid black;
     font-size: 18px;
 }
-
+.body-1 button:hover{
+    background-color: blue;
+}
+.body-1 button:active{
+    background-color: black;
+}
 .body-1 small {
     position: relative;
     top: -35.9em;
